@@ -1,10 +1,10 @@
 /*
+
+
     Check resources.rs for some great resources to learn rust
+
+
 */
-
-
-
-
 /***************************************/
 /* What IS Rust? (Start)*/
 
@@ -78,8 +78,40 @@
 
     /* Comments(End)*/
 
-    /* Variables, Constants , Mutation(Start)*/
+    /* Variables, Constants , Mutation , Shadowing (Start)*/
+        /* Variables (Start)*/
+            /*
+            //what is a variable
+                Variable is a storage, a place or a box which can store values inside of it
 
+            //how to create a variable and how dows it look like
+                    let variable_name = value;
+                let statement is used to create a variable
+                //TODO : Add more details here
+
+            //all about variables in rust
+                by default variables are immutable
+                    When a variable is immutable, once a value is bound to a name, you can’t change that value. (from Rust Book)
+                
+                you can't change a variable type once you declared it
+                    but you can change value of a mutable variable (we'll learn mutable variables in the future)
+
+
+            */
+        /* Variables (End)*/
+
+        /* Mutation (Start)*/
+
+        /* Mutation (End)*/
+
+
+        /* Constants (Start)*/
+
+        /* Constants (End)*/
+
+        /* Shadowing (Start)*/
+
+        /* Shadowing (End)*/
     /* Variables, Constants , Mutation(End)*/
 
 /* Common Programming Concepts (End)*/
