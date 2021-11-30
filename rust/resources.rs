@@ -38,11 +38,14 @@ some good rusty tutorials:
         https://youtu.be/rHRBJKWbbw0
 
 some really good rust lectures:
+    
+    Why Rust? (by Jeffery Olson (jeesuz))
+        https://youtu.be/0VYJFx1C91g
 
     Stanford Seminar The Rust Programming Language - The Best Documentary Ever : (Damn I love this One Its great and gives examples about ownership , borrowing , etc ..)
         https://youtu.be/SZvs15hC81U
 
-    RustConf 2019 - From Electron, to Wasm, to Rust (Aaand Back to Electron) by Irina Shestak: (ngl she has the craziest presentaion slides ever beautiful)
+    RustConf 2019 - From Electron, to Wasm, to Rust (Aaand Back to Electron) by Irina Shestak: (ngl she has the craziest presentaion slides ever , super super beautiful)
         https://youtu.be/lLzFJenzBng
 
 */
