@@ -48,4 +48,9 @@ some really good rust lectures:
     RustConf 2019 - From Electron, to Wasm, to Rust (Aaand Back to Electron) by Irina Shestak: (ngl she has the craziest presentaion slides ever , super super beautiful)
         https://youtu.be/lLzFJenzBng
 
+    The Rust Programming Language - Zero Cost Abstractions (watch_list)
+        https://youtu.be/BXyZ_wuxs-4
+    
+    A C++ Programmer's View on Rust (watch_list)
+        https://www.youtube.com/watch?v=5pdRnva-DQ4
 */
