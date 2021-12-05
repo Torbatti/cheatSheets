@@ -1,4 +1,4 @@
-/*
+
 Some Really Good Resources You can Learn From (Basic to Advanced Concepts):
 
 examples/book:
@@ -53,4 +53,7 @@ some really good rust lectures:
     
     A C++ Programmer's View on Rust (watch_list)
         https://www.youtube.com/watch?v=5pdRnva-DQ4
-*/
+
+
+
+

@@ -107,6 +107,9 @@
             // Note : char litterals use single quotes '' , string litterals use double quotes ""
 
         //
+
+
+        //TODO add examples for each and every scalar type
     //
         
     // Compound Types
@@ -126,6 +129,8 @@
             let (a, b, c, d) = tuple;
             // a=1 , b= "hello" , c =4.5 , d = true
 
+            // Indexing starts at 0
+            // TODO indexing
 
             // Functions can use tuples to return multiple values, as tuples can hold any number of values.
             // Tuples can be used as function arguments and as return values
@@ -141,6 +146,14 @@
             // Arrays are created using brackets []
             // Arrays' length, which is known at compile time, is part of their type signature [T; length].
             
+            // Fixed-size array (type signature is superfluous)
+            let xs: [i32; 5] = [1, 2, 3, 4, 5];
+
+            // All elements can be initialized to the same value
+            let ys: [i32; 500] = [0; 500];
+
+            // TODO indexing
+            // Indexing starts at 0
 
             // TODO
     
@@ -158,7 +171,7 @@
 
     //
 }
-{   // Functions , Methods
+{   // Functions 
 
 }
 {   // Control Flow
